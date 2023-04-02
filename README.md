@@ -1,7 +1,7 @@
 # Mental-NLP
 
 
-# bout Dataset
+# About Dataset
 
 ## Multimodal EmotionLines Dataset(MELD)
 ## A dataset for Emotion Recognition in Multiparty Conversations
